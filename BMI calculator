@@ -1,0 +1,3 @@
+git add .
+git commit -m "Add BMI calculator"
+git push origin main
